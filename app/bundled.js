@@ -90,10 +90,11 @@
 /*!***********************************!*\
   !*** ./app/assets/scripts/App.js ***!
   \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("alert(\"Hello, this is a test.\");\n\n\n//# sourceURL=webpack:///./app/assets/scripts/App.js?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n!(function webpackMissingModule() { var e = new Error(\"Cannot find module '../styles/styles.css'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n\n\nalert(\"Hello, this is a test.\");\n\n\n//# sourceURL=webpack:///./app/assets/scripts/App.js?");
 
 /***/ })
 
